@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+ul{
+    width: 100vw;
+    background-color: white;
+    color: black;
+    display: flex;
+    justify-content: space-evenly;
+    list-style-type: none;
+    position: fixed;
+    top: 0;
+}
+body{
+    background-image: url(./ce4f3039-337c-4b08-bec3-b64d8f7b2dd0.jpeg);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 200vh;
+    background-color: purple;
+}
+.div1{
+    text-align: center;
+    color: white;
+    margin-top: 250px;
+}
+.p1{
+    font-size: 75px;
+}
+.p2{
+    font-size: 15px;
+}
+span{
+    color: purple;
+}
+button{
+    background-color: purple;
+    font-size: 25px;
+}
+.div2{
+    margin-top: 25px;
+    color: purple;
+}
